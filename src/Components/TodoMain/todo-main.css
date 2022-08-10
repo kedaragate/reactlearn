@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  border: 2px solid red;
+  height: 90vh;
+}
+
+.sub-component {
+  width: 50%;
+  border: 2px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
